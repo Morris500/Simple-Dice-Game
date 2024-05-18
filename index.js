@@ -1,6 +1,3 @@
-/*alert ("hello world");
-var name = prompt ("enter your name");
-*/
 function start() {
   dice1=Math.floor(Math.random()*6)+1;
   
