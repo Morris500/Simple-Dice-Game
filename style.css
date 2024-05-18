@@ -1,0 +1,47 @@
+.huge{
+  color: red;
+  font-weight: bold;
+  font-size: 10rem;
+}
+body{
+  background-color: darkgray;
+}
+h1{
+  color:blue;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 5rem;
+  font-size: 5em;
+
+}
+.btn{
+display: block;
+text-align: center;
+background-color: aqua;
+margin: auto;
+border-radius: 20%;
+}
+.player1{
+  text-align: center;
+  display: inline;
+  align-self: center;
+  margin-left: 18rem;
+
+}
+.player2{
+  text-align: center;
+  display: inline;
+  align-self: center;
+  padding-left: auto;
+  margin-left: 5rem;
+}
+.img1, .img2 {
+  height:20rem ;
+}
+
+footer{
+  text-align: center;
+  margin-top: 4rem;
+  font-family: fantasy;
+  font-size: 1em;
+}
